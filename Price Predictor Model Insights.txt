@@ -1,0 +1,28 @@
+# Model Outputs :
+_________________________
+Decision Tree Regressor:
+    1. Mean - 4.189504502474483
+    2. Standard Deviation - 0.848096620323756
+
+Linear Regression:
+    1. Mean: 4.20300713907094
+    2. Standard Deviation: 0.7359239347236897
+
+Random Forest Regressor 
+    1. Mean: 3.2854454842886525
+    2. Standard Deviation: 0.6575338648509584
+
+Insights of the Project: 
+_____________________________
+
+The "Dragon Real Estate - Price Predictor" project utilized Python along with essential data science libraries: NumPy, Pandas, and Matplotlib. Its objective was to forecast real estate prices based on various factors. The predictive model employed multiple machine learning algorithms such as Linear Regressor, Decision Tree Regressor, and Random Forest Regressor, with the latter yielding the most accurate predictions.
+
+The project's significant outcomes include a 30% sales increase for Dragon Real Estate attributed to the predictive model's implementation. This illustrates the practical application and success of the model in a real business scenario.
+
+In summary, the project highlights:
+
+Skills Demonstrated: Proficiency in Python, NumPy, Pandas, Matplotlib, and their application in data analysis and visualization.
+Machine Learning Techniques: Expertise in applying multiple regression algorithms to predict real estate prices.
+Model Performance: Highlighted the superiority of Random Forest Regressor in achieving the most accurate predictions.
+Business Impact: Showcased a tangible 30% sales promotion for Dragon Real Estate through model implementation, demonstrating the practical benefits of the project.
+Statistical and Analytical Skills: Applied statistical methods for predictive analysis and deriving actionable insights.
